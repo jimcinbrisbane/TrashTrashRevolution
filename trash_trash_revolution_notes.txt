@@ -1,0 +1,11 @@
+ssh -i /d/2019_working/coding/sleepyhollowAWSAugust2019.pem ubuntu@13.236.164.196
+
+sudo vim /etc/nginx/sites-available/default
+sudo nginx -t
+sudo systemctl reload nginx
+
+trashtrashrevolution.com
+www.trashtrashrevolution.com
+
+node1.trashtrashrevolution.com
+node2.trashtrashrevolution.com
